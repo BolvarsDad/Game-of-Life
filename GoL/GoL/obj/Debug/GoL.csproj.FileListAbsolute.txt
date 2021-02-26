@@ -1,0 +1,14 @@
+C:\Users\Sinan\source\repos\GoL\GoL\bin\Debug\GoL.pdb
+C:\Users\Sinan\source\repos\GoL\GoL\obj\Debug\GoL.csprojAssemblyReference.cache
+C:\Users\Sinan\source\repos\GoL\GoL\obj\Debug\GoL.Form1.resources
+C:\Users\Sinan\source\repos\GoL\GoL\obj\Debug\GoL.Properties.Resources.resources
+C:\Users\Sinan\source\repos\GoL\GoL\obj\Debug\GoL.csproj.GenerateResource.cache
+C:\Users\Sinan\source\repos\GoL\GoL\obj\Debug\GoL.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\GoL\GoL\obj\Debug\GoL.pdb
+C:\Users\Sinan\source\repos\GoL\GoL\bin\Debug\Model.dll
+C:\Users\Sinan\source\repos\GoL\GoL\bin\Debug\Model.pdb
+C:\Users\Sinan\source\repos\GoL\GoL\bin\Debug\Model.dll.config
+C:\Users\Sinan\source\repos\GoL\GoL\obj\Debug\GoL.csproj.CopyComplete
+C:\Users\Sinan\source\repos\GoL\GoL\bin\Debug\GoL.exe.config
+C:\Users\Sinan\source\repos\GoL\GoL\bin\Debug\GoL.exe
+C:\Users\Sinan\source\repos\GoL\GoL\obj\Debug\GoL.exe
